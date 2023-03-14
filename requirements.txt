@@ -1,0 +1,4 @@
+cv
+gradio
+markdown
+scenedetect
